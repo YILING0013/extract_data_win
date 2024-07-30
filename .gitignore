@@ -1,0 +1,8 @@
+
+/.vs
+/bin
+/obj
+/packages
+/py/dist
+/py/build/extract_data
+/Output

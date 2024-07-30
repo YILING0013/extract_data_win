@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extract_data_win", "extract_data_win.csproj", "{99462E26-5D2B-4CC4-A3EB-638BAD6568DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99462E26-5D2B-4CC4-A3EB-638BAD6568DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99462E26-5D2B-4CC4-A3EB-638BAD6568DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99462E26-5D2B-4CC4-A3EB-638BAD6568DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99462E26-5D2B-4CC4-A3EB-638BAD6568DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5CAA6B4-1B53-4215-9674-DCC06B623F44}
+	EndGlobalSection
+EndGlobal
