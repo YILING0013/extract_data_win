@@ -1,6 +1,6 @@
 [Setup]
 AppName=ExtractData
-AppVersion=1.0
+AppVersion=1.2
 DefaultDirName={pf}\ExtractData
 DefaultGroupName=ExtractData
 OutputBaseFilename=ExtractData_Setup
